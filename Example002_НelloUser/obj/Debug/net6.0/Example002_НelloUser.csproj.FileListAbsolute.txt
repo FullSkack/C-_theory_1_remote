@@ -1,0 +1,15 @@
+C:\Users\drinf\OneDrive\Рабочий стол\C#_theory_1\Example002_НelloUser\obj\Debug\net6.0\Example002_НelloUser.csproj.AssemblyReference.cache
+C:\Users\drinf\OneDrive\Рабочий стол\C#_theory_1\Example002_НelloUser\obj\Debug\net6.0\Example002_НelloUser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drinf\OneDrive\Рабочий стол\C#_theory_1\Example002_НelloUser\obj\Debug\net6.0\Example002_НelloUser.AssemblyInfoInputs.cache
+C:\Users\drinf\OneDrive\Рабочий стол\C#_theory_1\Example002_НelloUser\obj\Debug\net6.0\Example002_НelloUser.AssemblyInfo.cs
+C:\Users\drinf\OneDrive\Рабочий стол\C#_theory_1\Example002_НelloUser\obj\Debug\net6.0\Example002_НelloUser.csproj.CoreCompileInputs.cache
+C:\Users\drinf\OneDrive\Рабочий стол\C#_theory_1\Example002_НelloUser\bin\Debug\net6.0\Example002_НelloUser.exe
+C:\Users\drinf\OneDrive\Рабочий стол\C#_theory_1\Example002_НelloUser\bin\Debug\net6.0\Example002_НelloUser.deps.json
+C:\Users\drinf\OneDrive\Рабочий стол\C#_theory_1\Example002_НelloUser\bin\Debug\net6.0\Example002_НelloUser.runtimeconfig.json
+C:\Users\drinf\OneDrive\Рабочий стол\C#_theory_1\Example002_НelloUser\bin\Debug\net6.0\Example002_НelloUser.dll
+C:\Users\drinf\OneDrive\Рабочий стол\C#_theory_1\Example002_НelloUser\bin\Debug\net6.0\Example002_НelloUser.pdb
+C:\Users\drinf\OneDrive\Рабочий стол\C#_theory_1\Example002_НelloUser\obj\Debug\net6.0\Example002_НelloUser.dll
+C:\Users\drinf\OneDrive\Рабочий стол\C#_theory_1\Example002_НelloUser\obj\Debug\net6.0\refint\Example002_НelloUser.dll
+C:\Users\drinf\OneDrive\Рабочий стол\C#_theory_1\Example002_НelloUser\obj\Debug\net6.0\Example002_НelloUser.pdb
+C:\Users\drinf\OneDrive\Рабочий стол\C#_theory_1\Example002_НelloUser\obj\Debug\net6.0\Example002_НelloUser.genruntimeconfig.cache
+C:\Users\drinf\OneDrive\Рабочий стол\C#_theory_1\Example002_НelloUser\obj\Debug\net6.0\ref\Example002_НelloUser.dll

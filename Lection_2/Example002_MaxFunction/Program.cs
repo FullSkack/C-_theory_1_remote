@@ -9,12 +9,13 @@ int a3 = 13;
 int b3 = 213;
 int c3 = 33;
 
-int Max(int arg1, int arg2, int arg3)
+int Max(int arg1, int arg2, int arg3) // объявление функции
 {
-    int result = arg1;
+    // Тело функции
+    int result = arg1; 
     if(arg2 > result) result = arg2;
     if(arg3 > result) result = arg3;
-    return result;
+    return result; // Вывод результата вычислений
 }
 
 int max1 = Max(a1, b1, c1);

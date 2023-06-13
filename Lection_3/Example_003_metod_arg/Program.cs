@@ -1,4 +1,4 @@
-﻿void Metod21(string msg, int count) // 
+﻿void Metod21(string msg, int count) 
 {
     int i = 0;
     while (i < count)
@@ -8,4 +8,4 @@
     }
 }
 Metod21 (msg: "Text",count: 4);
-// задаем значения для работы метода через именованные аргументы
+// задаем значения для работы метода через именованные аргументы.

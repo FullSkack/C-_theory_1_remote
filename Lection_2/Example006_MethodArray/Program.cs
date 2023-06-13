@@ -13,17 +13,41 @@ void FillArray(int[] collection) // Объявляем метод и перем�
     }
 }
 
-void PrintArray(int[] massiv) // Объявляем метод и переменные для работы
+void PrintArray(int[] col) // Объявляем метод и переменные для работы
 {
-    int count = massiv.Length;
+    int count = col.Length;
     int position = 0;
 
     while (position < count) // цикл перебора и вывода в консоль соответсвующего элемента
     {
-        Console.Write(massiv[position]);
+        Console.Write(col[position]);
         position ++;
     }
 }
 
+int IndexOf(int[] collection, int find)
+{
+    int count = collection.Length;
+    int index = 0;
+    int posisition = 0;
+
+    while (index < count)
+    {
+        if(collection[index] == find)
+        {
+            posisition = index;
+            break;
+        }
+        index++;
+    }
+    return posisition;
+}
+
+
 FillArray(array);
 PrintArray(array);
+Console.WriteLine();
+
+int pos = IndexOf(array, 4);
+Console.WriteLine(pos);
+

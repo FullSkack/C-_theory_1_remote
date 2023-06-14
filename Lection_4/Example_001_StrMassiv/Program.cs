@@ -4,7 +4,7 @@
 // table [0,0] table [0,1] table [0,2] table [0,3] table [0,4]
 // table [1,0] table [1,1] table [1,2] table [1,3] table [1,4]
 
-table[1, 2] = "слово";
+table[1, 2] = "|";
 
 for (int rows = 0; rows < 2; rows++)
 // вложенный цикл перебирающий сначала строки, потом столбцы и выводящий в терем
@@ -12,9 +12,10 @@ for (int rows = 0; rows < 2; rows++)
     for (int columns = 0; columns < 5; columns++)
     {
         // обращаемся к массиву через индексы
-        Console.WriteLine($"-{table[rows, columns]}");  
+        Console.Write($"-{table[rows, columns]}");  
         // добавили "-" для наглядности, как выводяться вызываемые элементы
     }
+System.Console.WriteLine();
 }
 
 

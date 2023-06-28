@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿// Формула вычечления факториала
 double Factorial (int n)
 {
     // Ветвление факториала
